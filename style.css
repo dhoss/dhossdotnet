@@ -12,7 +12,7 @@ a:hover {text-decoration:none;}
 #content {background:#fff;}
 #content .post {padding:10px;}
 #topnav {background:#333; height:91px; padding:10px; background: url(images/sidebarbg.png) left top no-repeat;}
-#header_home {display:block; height:150px; background:url(images/header.jpg) center top no-repeat; text-align:center;}
+#header_home {display:block; height:150px; background:url(images/logo.png) center top no-repeat; text-align:center;}
 .sitename {display:block; font:22px "Trebuchet MS", Verdana, sans-serif; color:#fff; height:30px; padding:8px 5px 0 5px; margin:0; text-transform:uppercase; letter-spacing:12px;}
 .sitename a, .sitename a:visited, .sitename a:active {color:#fff; text-decoration:none;}
 .sitename a:hover {color:#eee; text-decoration:none;}
@@ -46,7 +46,7 @@ h2 .postmeta {display:block; font: normal 12px Georgia, "Times New Roman", Times
 #footertop { height: 40px; padding-top:10px; margin-bottom:10px;}
 #leftfooter { float: left; width: 35%;}
 #rightfooter { float: right; width: 63%;}
-#bottom { padding:10px 10px 10px 75px; clear:both; background:url(images/footerbtm.jpg) 3px 5px no-repeat; border-top: solid 1px #333; margin-top:15px;}
+#bottom { padding:10px 10px 10px 75px; clear:both; background:url(images/bottom-left.png) 3px 5px no-repeat; border-top: solid 1px #333; margin-top:15px;}
 #sidebar2 {float:right; width:48%;}
 #sidebar1 {float:left; width:48%;}
 #rightfooter li { display:block; height:22px; border-bottom: 1px solid #2C2C2C;}
