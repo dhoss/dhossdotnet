@@ -1,0 +1,49 @@
+Google - A summer of Code
+ - What is it?
+ - WHo does it?
+ - How do I get in?
+ - My Project
+  * Getting Started
+  - Familiarizing myself with the code
+  - SVN? Fun!
+  - SVN? I Broke it
+  - SVN? Ok I fixed it, but I really hate you
+  - Finally developing.  Well. Sorta. 
+  - Finding out about yak shaving, in all its glory.
+  - Again, SVN I hate you (no, SVK does *not* work as a happy medium between SVN and git either) 
+  - Tests pass, wait, my code works?
+  - More tests pass, finally getting into a groove
+  - All tests pass, stage one complete! ...10 More to go.
+  - Next up: Design Chats (So wait, you want the doodad to go and talk to the thingy? Right?)
+  - RFC on next steps (some feedback, mostly "wow, we got no feedback")
+  - Drafting up a prototype
+  - Writing some tests, getting reviews/feedback
+  - Finally committing to one direction and developing on it
+  - Iteration after iteration, finally completing another step
+  - More design chats, moving a big faster now 
+  - Realizing I've learned quite a lot since starting
+  - Mentor check in.  Oh, I made the halfway deadline? Hot damn!
+  - ...and back at step one, every single time we start a new phase!
+  - write some code, test, test, test. write some code, test, test, test
+  - stuff failing for other people!!!
+   * fixing this stuff, why the hell did I change the port switch to -l?!
+  - more tests
+  - even more tests
+  - dear God, is this Google Summer of Tests?
+  - a few weeks left.  Wait. Two weeks. And shit, I have to do more tests!
+  - really griding, am I going to get this finished?
+  - homestretch, uh oh, x y and z aren't going to get done
+  - testing, finalizing, and wrapping up before the deadline
+  - final submission, hoping, praying I've passed
+  - final reviews in, I passed!
+  - Looking back:
+   * Good Software is Never Complete
+    - still involved
+	- some frustration to get things out the door (I'm used to being yelled at by now :-) )
+	- realizing I've done quite a bit, and we have a good base for the future
+  - conclusion
+   * future opportunities
+   * networking
+   * new skills
+   * new frame of mind
+   * many many many thanks.
