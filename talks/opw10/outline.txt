@@ -1,49 +1,87 @@
 Google - A summer of Code
- - What is it?
- - WHo does it?
- - How do I get in?
- - My Project
-  * Getting Started
-  - Familiarizing myself with the code
-  - SVN? Fun!
-  - SVN? I Broke it
-  - SVN? Ok I fixed it, but I really hate you
-  - Finally developing.  Well. Sorta. 
-  - Finding out about yak shaving, in all its glory.
-  - Again, SVN I hate you (no, SVK does *not* work as a happy medium between SVN and git either) 
-  - Tests pass, wait, my code works?
-  - More tests pass, finally getting into a groove
-  - All tests pass, stage one complete! ...10 More to go.
-  - Next up: Design Chats (So wait, you want the doodad to go and talk to the thingy? Right?)
-  - RFC on next steps (some feedback, mostly "wow, we got no feedback")
-  - Drafting up a prototype
-  - Writing some tests, getting reviews/feedback
-  - Finally committing to one direction and developing on it
-  - Iteration after iteration, finally completing another step
-  - More design chats, moving a big faster now 
-  - Realizing I've learned quite a lot since starting
-  - Mentor check in.  Oh, I made the halfway deadline? Hot damn!
-  - ...and back at step one, every single time we start a new phase!
-  - write some code, test, test, test. write some code, test, test, test
-  - stuff failing for other people!!!
-   * fixing this stuff, why the hell did I change the port switch to -l?!
-  - more tests
-  - even more tests
-  - dear God, is this Google Summer of Tests?
-  - a few weeks left.  Wait. Two weeks. And shit, I have to do more tests!
-  - really griding, am I going to get this finished?
-  - homestretch, uh oh, x y and z aren't going to get done
-  - testing, finalizing, and wrapping up before the deadline
-  - final submission, hoping, praying I've passed
-  - final reviews in, I passed!
-  - Looking back:
-   * Good Software is Never Complete
-    - still involved
-	- some frustration to get things out the door (I'm used to being yelled at by now :-) )
-	- realizing I've done quite a bit, and we have a good base for the future
-  - conclusion
-   * future opportunities
-   * networking
-   * new skills
-   * new frame of mind
-   * many many many thanks.
+(notes: use "challenging", and "hard" instead of "dislike".
+  What did I learn: Specifics
+  name mentors
+  challenged at the time by amount of testing
+  so many people talking into my ear
+  did i think i'd get in?
+  interesting codes
+  who what when where how)
+
+intro: name, background (student, former GSoC participant), fundamentals of GSoC
+
+what: A grant that Google gives out every summer to selected students for working on an open source project
+they have chosen (from a list that are Google approved)
+
+who: college students around the world that are qualified. People ranging from sophomores in college to graduate students
+qualifications include a certain gpa and official student transcripts/enrollment documents
+
+where: all over the world. which is part of what makes this such a special program.  Students in Norway had the same kinds of interests that students in California (and Colorado) had.
+
+when:  The final drafts of the student proposals have to be submitted in early April, then the decision is announced mid April, and the project starts at the beginning of May.  Interested students should get in touch with the organization of their choice as early as possible and flesh out ideas for the upcoming summer of code.
+
+why: A tremendous learning experience.  You are thrown into the middle of quite possibly enterprise level codebases, and are literally taught to navigate your way around the fundamental tools and methods that professional programmers use on a day to day basis.  Not only are you obtaining new skills, but you are making yourself known in the community, networking with potential employers and if your college accepts such, completing credits for field study.
+
+how: how to apply? how do i do this? Getting over being terrified, and taking your first steps.  Know that mentors are there for you and you're not going to get thrown under the bus wheels.  Even if you do, your mentor will dive in after you.  You're not alone! 
+
+anecdotes: the book, the first letter of acceptance, the first svn checkout
+
+- What is it?
+
+- What do I get for doing it? IE - why?
+* future opportunities
+* networking
+* new skills
+* new frame of mind
+* CASH (And a T-shirt!).
+* the green little book (mine was green)
+
+- Who else has done it?
+
+- How do I get in?
+ - who's eligible?
+ - what's a grant proposal?
+ - how do i write one?
+ - what needs to be in one?
+ - 
+
+- My Project
+* Getting Started
+- Familiarizing myself with the code
+- SVN? Fun!
+- SVN? I Broke it
+- SVN? Ok I fixed it, but I really hate you
+- Finally developing.  Well. Sorta. 
+- Finding out about yak shaving, in all its glory.
+- Again, SVN I hate you (no, SVK does *not* work as a happy medium between SVN and git either) 
+- Tests pass, wait, my code works?
+- More tests pass, finally getting into a groove
+- All tests pass, stage one complete! ...10 More to go.
+- Next up: Design Chats (So wait, you want the doodad to go and talk to the thingy? Right?)
+- RFC on next steps (some feedback, mostly "wow, we got no feedback")
+- Drafting up a prototype
+- Writing some tests, getting reviews/feedback
+- Finally committing to one direction and developing on it
+- Iteration after iteration, finally completing another step
+- More design chats, moving a bit faster now 
+- Realizing I've learned quite a lot since starting
+- Mentor check in.  Oh, I made the halfway deadline? Hot damn!
+- ...and back at step one, every single time we start a new phase!
+- write some code, test, test, test. write some code, test, test, test
+- stuff failing for other people!!!
+* fixing this stuff, why the hell did I change the port switch to -l?!
+- more tests
+- even more tests
+- dear God, is this Google Summer of Tests?
+- a few weeks left.  Wait. Two weeks. And my goodness gracious! I have to do more tests!
+- really grinding, am I going to get this finished?
+- homestretch, uh oh, x y and z aren't going to get done
+- testing, finalizing, and wrapping up before the deadline
+- final submission, hoping, praying I've passed
+- final reviews in, I passed!
+- Looking back:
+* Good Software is Never Complete
+- still involved
+- some frustration to get things out the door (I'm used to being yelled at by now :-) )
+- realizing I've done quite a bit, and we have a good base for the future
+- conclusion (mtfnpy)
