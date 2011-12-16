@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>accessDate</key>
+		<date>2010-11-22T20:41:28Z</date>
+		<key>actualSize</key>
+		<integer>147698</integer>
+		<key>attributeModDate</key>
+		<date>2010-11-22T20:41:20Z</date>
+		<key>createDate</key>
+		<date>2010-11-22T20:41:19Z</date>
+		<key>creationDate</key>
+		<date>2010-11-22T20:43:23Z</date>
+		<key>encrypted</key>
+		<false/>
+		<key>id</key>
+		<string>FFE09863-B9C0-4B47-9D14-FF30245CA34B</string>
+		<key>lastModifiedDate</key>
+		<date>2010-11-22T20:41:20Z</date>
+		<key>originalPath</key>
+		<string>/Users/admin/web-devel/dhoss.net/talks2/opw10/img7.png</string>
+		<key>originalSize</key>
+		<integer>147698</integer>
+		<key>versionMetadataList</key>
+		<array>
+			<dict>
+				<key>POSIXPermissions</key>
+				<integer>-32275</integer>
+				<key>creatorCode</key>
+				<integer>0</integer>
+				<key>fileType</key>
+				<integer>0</integer>
+				<key>id</key>
+				<string>081F8B55-541D-4C3A-9A10-1B531455A122</string>
+				<key>macAttributes</key>
+				<integer>0</integer>
+				<key>ownerGID</key>
+				<integer>20</integer>
+				<key>ownerUID</key>
+				<integer>503</integer>
+			</dict>
+		</array>
+		<key>versionType</key>
+		<integer>0</integer>
+	</dict>
+</array>
+</plist>
